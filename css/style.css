@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 1024px;
+    background-color: silver;
+    margin: auto;
+}
+.header{
+    background-image: url("../imgs/bg.jpg");
+    height: 118px;
+}
+.d1{
+    text-align: right;
+}
+h1{
+    display: inline;
+}
+.d1 img{
+    opacity: 0.5;
+}
+.d1 img:hover{
+    opacity: 1;
+}
+.nav ul{
+    padding-left: 0px;
+}
+.nav{
+    background-color: black;
+    margin-top: -15px;
+}
+.nav li{
+    display: inline-block;
+    color: silver;
+    padding: 15px;
+}
+.nav li:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+.cont1{
+    text-align: center;
+}
+.cont1 img{
+    width: 98%;
+    height: 400px;
+}
+.cont2{
+    width: 65%;
+    padding-left: 10px;
+    margin-left:5px ;
+    float: left;
+}
+h3{
+    color: deepskyblue;
+    border-bottom:1px solid black ;
+    padding: 5px;
+}
+ p{
+    text-align: justify;
+
+}
+.cont2 img{
+    margin: 20px;
+}
+.cont3{
+    width: 30%;
+    float: left;
+    padding-left: 20px;
+}
+.clearfix{
+    clear: both;
+}
+.footer{
+    border-top:1px solid black ;
+}
+.footer p{
+    text-align: center;
+}
+h4{
+    margin: 0px;
+}
+.col1{
+    color:orangered;
+}
+.col2{
+    color: deepskyblue;
+}
+a{
+    text-decoration: none;
+    color: silver;
+} 
+.cont{
+text-align: center;
+padding: 10px;
+}
+.cont img{
+    margin: 20px;
+}
